@@ -1,10 +1,10 @@
-package com.financial.accounts.financial.accounts;
+package com.financial.bills;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FinancialAccountsApplicationTests {
+class BillsApplicationTests {
 
 	@Test
 	void contextLoads() {

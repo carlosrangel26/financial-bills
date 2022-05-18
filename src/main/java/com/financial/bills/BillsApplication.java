@@ -1,13 +1,13 @@
-package com.financial.accounts.financial.accounts;
+package com.financial.bills;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FinancialAccountsApplication {
+public class BillsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FinancialAccountsApplication.class, args);
+		SpringApplication.run(BillsApplication.class, args);
 	}
 
 }
